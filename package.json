@@ -1,0 +1,32 @@
+{
+  "name": "react-native-refresh-loadmore-flatlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengft/react-native-refresh-loadmore-flatlist.git"
+  },
+  "keywords": [
+    "React Native",
+    "react-native-refresh-loadmore-flatlist",
+    "refresh",
+    "loadmore",
+    "FlatListRefresh"
+  ],
+  "author": "fantao.meng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mengft/react-native-refresh-loadmore-flatlist/issues"
+  },
+  "homepage": "https://github.com/mengft/react-native-refresh-loadmore-flatlist#readme",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "16.4.1",
+    "react-native": "0.56.0",
+    "react-native-loadview": "^1.0.0"
+  }
+}
