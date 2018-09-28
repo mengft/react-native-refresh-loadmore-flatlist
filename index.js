@@ -2,7 +2,7 @@
  * @Author: fantao.meng
  * @Date: 2018-09-04 11:07:39
  * @Last Modified by: fantao.meng
- * @Last Modified time: 2018-09-20 16:26:42
+ * @Last Modified time: 2018-09-28 16:15:38
  */
 
 import React from 'react';
@@ -199,7 +199,7 @@ export default class FlatListRefresh extends React.Component {
 					{typeof this.props.refreshControl !== 'function'
 						? (
 							<View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-								<Image source={require('../Assets/Images/Component/loading-triangles.gif')} style={{ width: 35, height: 35 }} />
+								<Image source={require('./Assets/Images/Component/loading-triangles.gif')} style={{ width: 35, height: 35 }} />
 								<Text style={Styles.warnText}>{warnText}</Text>
 							</View>
 						)

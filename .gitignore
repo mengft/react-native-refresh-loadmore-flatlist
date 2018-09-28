@@ -1,2 +1,5 @@
 node_modules
 package-lock.json
+Assets/.DS_Store
+Assets/Images/.DS_Store
+.DS_Store
